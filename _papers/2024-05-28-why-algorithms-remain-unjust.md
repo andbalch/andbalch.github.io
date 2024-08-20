@@ -1,6 +1,6 @@
 ---
 title: "Why Algorithms Remain Unjust: Power Structures Surrounding Algorithmic Inequality"
-collection: publications
+collection: papers
 category: preprints
 permalink: /publication/2024-05-20-why-algorithms-remain-unjust
 excerpt: 'Inspired by the sociologist Erik Olin Wright, I conducted an analysis of the power structures that interact with and influence the ways algorithms impact society to perpetuate injustice.'

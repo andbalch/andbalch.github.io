@@ -73,7 +73,7 @@ author:
   zhihu            : # URL
 
 # Publication Category - The following the list of publication categories and their headings
-publication_category:
+paper_category:
   books:
     title: 'Books'
   manuscripts:
@@ -82,6 +82,8 @@ publication_category:
     title: 'Conference Papers'
   preprints:
     title: 'Preprints'
+  coursework:
+    title: 'Coursework'
 
 # Site Settings
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
@@ -213,7 +215,7 @@ collections:
   teaching:
     output: false
     permalink: /:collection/:path/
-  publications:
+  papers:
     output: true
     permalink: /:collection/:path/
   poetry:
@@ -253,10 +255,10 @@ defaults:
       author_profile: true
       share: true
       comments: true
-  # _publications
+  # _papers
   - scope:
       path: ""
-      type: publications
+      type: papers
     values:
       layout: single
       author_profile: true
