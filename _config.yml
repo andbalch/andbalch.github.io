@@ -23,7 +23,7 @@ author:
   # Biographic information
   avatar           : "profile.png"
   name             : "Andrew Balch"
-  pronouns         : # example: "she/her"  
+  pronouns         : "he/him/his" 
   bio              : "Short biography for the left-hand sidebar"
   employer         : "University of Virginia"
   uri              : # URL
@@ -31,9 +31,9 @@ author:
 
   # Academic websites
   arxiv            : # URL - Update with the correct link to your profile
-  googlescholar    : "https://scholar.google.com/citations?user=PS_CX0AAAAAJ"
+  googlescholar    : "https://scholar.google.com/citations?user=Egg1KakAAAAJ&hl=en&inst=13751854044476728232"
   impactstory      : # URL
-  orcid            : "https://orcid.org/yourorcidurl"
+  orcid            : "https://orcid.org/0009-0005-1282-7480"
   semantic         : # URL
   pubmed           : # URL
   researchgate     : # URL
@@ -56,7 +56,7 @@ author:
   keybase          : # Username
   instagram        : # Username
   lastfm           : # Username
-  linkedin         : # Username
+  linkedin         : "andrew-j-balch"
   mastodon         : # URL
   medium           : # URL
   pinterest        : # Username
