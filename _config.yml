@@ -21,7 +21,7 @@ repository               : "andbalch/andbalch.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "profile.jpg"
   name             : "Andrew Balch"
   pronouns         : "he/him/his" 
   bio              : "Short biography for the left-hand sidebar"
@@ -209,16 +209,16 @@ kramdown:
 # These settings control the types of collections used by the template
 collections:
   teaching:
-    output: true
+    output: false
     permalink: /:collection/:path/
   publications:
     output: true
     permalink: /:collection/:path/
-  portfolio:
+  poetry:
     output: true
     permalink: /:collection/:path/
   talks:
-    output: true
+    output: false
     permalink: /:collection/:path/
 
 
@@ -260,10 +260,10 @@ defaults:
       author_profile: true
       share: true
       comments: true
-  # _portfolio
+  # _poetry
   - scope:
       path: ""
-      type: portfolio
+      type: poetry
     values:
       layout: single
       author_profile: true
