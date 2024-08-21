@@ -2,14 +2,14 @@
 title: "Why Algorithms Remain Unjust: Power Structures Surrounding Algorithmic Inequality"
 collection: papers
 category: preprints
-permalink: /publication/2024-05-20-why-algorithms-remain-unjust
-excerpt: 'Inspired by the sociologist Erik Olin Wright, I conducted an analysis of the power structures that interact with and influence the ways algorithms impact society to perpetuate injustice.'
+permalink: /paper/2024-05-20-why-algorithms-remain-unjust
+excerpt: 'Inspired by the sociologist Erik Olin Wright, I conducted an analysis of the power structures that interact with and influence the ways algorithms impact society to perpetuate injustice. Pending submission to alt.CHI.'
 date: 2024-05-28
 venue: 'arXiv'
 paperurl: 'https://arxiv.org/pdf/2405.18461'
 citation: 'Balch, Andrew. (2024). &quot;Why Algorithms Remain Unjust: Power Structures Surrounding Algorithmic Inequality.&quot; <i>arXiv preprint arXiv:2405.18461.</i>.'
 ---
-Pending submission to alt.CHI.
+Inspired by the sociologist Erik Olin Wright, I conducted an analysis of the power structures that interact with and influence the ways algorithms impact society to determine why algorithms still perpetuate social injustice despite the apparent popularity of fairness, accountability, and transparency initiatives. Pending submission to alt.CHI.
 
 ## Abstract
 

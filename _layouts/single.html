@@ -47,16 +47,32 @@ layout: default
       <section class="page__content" itemprop="text">
         {{ content }}
 
-        {% if page.citation and page.paperurl and page.slidesurl %}
-          <p style="font-size: smaller">Recommended citation: {{ page.citation }}<br /><a href="{{ page.paperurl }}">Download Paper</a> | <a href="{{ page.slidesurl }}">Download Slides</a></p>
-        {% elsif page.citation and page.paperurl %}
-          <p style="font-size: smaller">Recommended citation: {{ page.citation }}<br /><a href="{{ page.paperurl }}">Download Paper</a></p>
-        {% elsif page.citation and page.slidesurl %}
-          <p style="font-size: smaller">Recommended citation: {{ page.citation }}<br /><a href="{{ page.slidesurl }}">Download Slides</a></p>
-        {% elsif page.citation %}
-          <p style="font-size: smaller">Recommended citation: {{ page.citation }}</p>
-        {% elsif page.slidesurl %}
-          <p style="font-size: smaller"><a href="{{ page.slidesurl }}">Download Slides</a></p>
+        {% if paper.citation and paper.paperurl and paper.slidesurl and paper.repourl %}
+          <p "font-size: smaller">Recommended citation: {{ paper.citation }}<br /><a href="{{ paper.paperurl }}">Download Paper</a> | <a href="{{ paper.slidesurl }}">Download Slides</a> | <a href="{{ paper.repourl }}">Source Code</a></p>
+        {% elsif paper.citation and paper.paperurl and paper.repourl %}
+          <p "font-size: smaller">Recommended citation: {{ paper.citation }}<br /><a href="{{ paper.paperurl }}">Download Paper</a> | <a href="{{ paper.repourl }}">Source Code</a></p>
+        {% elsif paper.citation and paper.slidesurl and paper.repourl %}
+          <p "font-size: smaller">Recommended citation: {{ paper.citation }}<br /><a href="{{ paper.slidesurl }}">Download Slides</a> | <a href="{{ paper.repourl }}">Source Code</a></p>
+        {% elsif paper.citation and paper.paperurl and paper.slidesurl %}
+          <p "font-size: smaller">Recommended citation: {{ paper.citation }}<br /><a href="{{ paper.paperurl }}">Download Paper</a> | <a href="{{ paper.slidesurl }}">Download Slides</a></p>
+        {% elsif paper.citation and paper.paperurl %}
+          <p "font-size: smaller">Recommended citation: {{ paper.citation }}<br /><a href="{{ paper.paperurl }}">Download Paper</a></p>
+        {% elsif paper.citation and paper.slidesurl %}
+          <p "font-size: smaller">Recommended citation: {{ paper.citation }}<br /><a href="{{ paper.slidesurl }}">Download Slides</a></p>
+        {% elsif paper.citation and paper.repourl %}
+          <p "font-size: smaller">Recommended citation: {{ paper.citation }}<br /><a href="{{ paper.repourl }}">Source Code</a></p>
+        {% elsif paper.paperurl and paper.repourl %}
+          <p "font-size: smaller"><a href="{{ paper.paperurl }}">Download Paper</a> | <a href="{{ paper.repourl }}">Source Code</a></p>
+        {% elsif paper.slidesurl and paper.repourl %}
+          <p "font-size: smaller"><a href="{{ paper.slidesurl }}">Download Slides</a> | <a href="{{ paper.repourl }}">Source Code</a></p>
+        {% elsif paper.citation %}
+          <p "font-size: smaller">Recommended citation: {{ paper.citation }}</p>
+        {% elsif paper.slidesurl %}
+          <p "font-size: smaller">Download <a href="{{ paper.slidesurl }}">Download Slides</a></p></p>
+        {% elsif paper.repourl%}
+          <p "font-size: smaller"><a href="{{ paper.repourl }}">Source Code</a></p>
+        {% elsif paper.paperurl %}
+          <p "font-size: smaller"><a href=" {{ paper.paperurl }} ">Download Paper</a></p>
         {% endif %}
 
         {% if page.link %}<div><a href="{{ page.link }}" class="btn">{{ site.data.ui-text[site.locale].ext_link_label | default: "Direct Link" }}</a></div>{% endif %}
