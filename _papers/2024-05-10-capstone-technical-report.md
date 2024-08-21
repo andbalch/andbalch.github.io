@@ -3,12 +3,15 @@ title: "Capstone Technical Report: Visualizing and Predicting Rectal Cancer Trea
 collection: papers
 category: coursework
 permalink: /paper/2024-05-10-capstone-technical-report
-excerpt: "For my Bachelor's of Science capstone project, I continued work I began in 2020 with Emory University modeling a unique dataset of rectal cancer treatment paths. I cleaned the hand-entered data and developed a novel, data-driven visualization approach that integrates feature selection techniques."
+excerpt: "For my Bachelor's of Science capstone project, I continued work I began in 2020 with Emory University modeling a unique dataset of rectal cancer treatment paths. I cleaned the hand-entered data and developed a novel, data-driven visualization approach that integrates feature selection techniques.<br/><img src='/images/papers/sample_leak_plot.png'>"
 date: 2024-05-10
 paperurl: 'https://www.andrewbalch.com/files/Capstone_Technical_Report.pdf'
 repourl: 'https://github.com/HAI-lab-UVA/RCC-Project'
 ---
 For my Bachelor's of Science capstone project, I continued work I began in 2020 with Emory University modeling a unique dataset of rectal cancer treatment paths. I cleaned the hand-entered data and developed a novel, data-driven visualization approach that integrates feature selection techniques.
+
+![image](/images/papers/sample_leak_plot.png)
+*Sankey-based visualization of Anastomotic Leak progression using ML-selected features.*
 
 ## Abstract
 
