@@ -8,7 +8,10 @@ main:
   - title: "Papers"
     url: /papers/
 
-  - title: "Projects and News"
+  - title: "Projects"
+    url: /projects/
+
+  - title: "News"
     url: /year-archive/  
     
   - title: "Poetry"

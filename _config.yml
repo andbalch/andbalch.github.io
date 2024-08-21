@@ -218,6 +218,9 @@ collections:
   papers:
     output: true
     permalink: /:collection/:path/
+  projects:
+    output: true
+    permalink: /:collection/:path/
   poetry:
     output: true
     permalink: /:collection/:path/
@@ -264,13 +267,22 @@ defaults:
       author_profile: true
       share: true
       comments: true
+  # _projects
+  - scope:
+      path: ""
+      type: projects
+    values:
+      layout: single
+      author_profile: true
+      share: true
+      comment: true
   # _poetry
   - scope:
       path: ""
       type: poetry
     values:
       layout: single
-      author_profile: true
+      author_profile: false
       share: true
       comment: true
   # _talks
