@@ -11,7 +11,7 @@ citation: 'Balch, Andrew. (2024). &quot;Why Algorithms Remain Unjust: Power Stru
 ---
 Inspired by the sociologist Erik Olin Wright, I conducted an analysis of the power structures that interact with and influence the ways algorithms impact society to determine why algorithms still perpetuate social injustice despite the apparent popularity of fairness, accountability, and transparency initiatives. Pending submission to alt.CHI.
 
-![image](/images/papers/injustice.png)
+<img src='/images/papers/injustice.png' width='50%' height='50%'><br/>
 *The modern configuration of power around Algorithmic Activity is one of Economic Empowerment.*
 
 ## Abstract
