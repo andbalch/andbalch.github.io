@@ -1,7 +1,7 @@
 ---
-title: "Reinforcement Learning"
-excerpt: "Short description of portfolio item number 1<br/><img src='/images/500x300.png'>"
+title: "Constrained Reinforcement Learning"
+excerpt: "In 2023, I had the opportunity to work with PhD student Matt Landers at the HAI Lab on his project developing novel approaches to constrained reinforcement learning. Specifically, we aimed to find better ways of achieving knowledge transfer when the parameters of an environment may change. I helped implement several state of the art models, including policy distillation. The source code is available <a href='https://github.com/HAI-lab-UVA/policy-distillation-andrew'>here</a>."
 collection: projects
 ---
 
-This is an item in your portfolio. It can be have images or nice text. If you name the file .md, it will be parsed as markdown. If you name the file .html, it will be parsed as HTML.
+In 2023, I had the opportunity to work with PhD student Matt Landers at the HAI Lab on his project developing novel approaches to constrained reinforcement learning. Specifically, we aimed to find better ways of achieving knowledge transfer when the parameters of an environment may change. I helped implement several state of the art models, including policy distillation. The source code is available <a href="https://github.com/HAI-lab-UVA/policy-distillation-andrew">here</a>.
