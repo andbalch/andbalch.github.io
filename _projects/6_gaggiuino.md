@@ -1,7 +1,9 @@
 ---
 title: "Gaggiuino"
-excerpt: "Short description of portfolio item number 1<br/><img src='/images/500x300.png'>"
+excerpt: "This last summer I took the time to perform the <a href='https://gaggiuino.github.io'>Gaggiuino mod</a> on my espresso machine! It was a lot of fun, but also a lot harder than I thought it would be (mostly because I thought I could swap out some recommended parts). <br/><img src='/images/projects/integration_hell.jpg' width='25%' height='25%'>"
 collection: projects
 ---
 
-This is an item in your portfolio. It can be have images or nice text. If you name the file .md, it will be parsed as markdown. If you name the file .html, it will be parsed as HTML.
+This last summer I took the time to perform the <a href='https://gaggiuino.github.io'>Gaggiuino mod</a> on my espresso machine! It was a lot of fun, but also a lot harder than I thought it would be (mostly because I thought I could swap out some recommended parts).
+
+<img src='/images/projects/integration_hell.jpg' width='50%' height='50%'>
