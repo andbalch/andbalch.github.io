@@ -11,8 +11,8 @@ main:
   - title: "Projects"
     url: /projects/
 
-  - title: "News"
-    url: /year-archive/  
+  # - title: "News"
+  #   url: /year-archive/  
     
   - title: "Poetry"
     url: /poetry/
