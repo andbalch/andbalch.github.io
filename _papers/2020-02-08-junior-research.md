@@ -1,5 +1,5 @@
 ---
-title: "Governor's School Mentorship: Transformer-Based Architecture for Android Malware Classification and TTP Prediction"
+title: "Junior Research Project: Automated Induction Robotics"
 collection: papers
 category: coursework
 permalink: /paper/2020-02-08-junior-research
