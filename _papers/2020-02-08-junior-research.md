@@ -12,7 +12,7 @@ For my junior research project at the Governor's School, I designed and built a 
 ## Abstract
 
 Imagine automated robots, moving freely around a warehouse 24/7, free from the weight,
-and cost, of a battery pack powered through a grid of wirelessly inductive “Smart Tiles” in the
+and cost, of a battery pack powered through a grid of wirelessly-inductive “Smart Tiles” in the
 floor, each loaded with sensors to help coordinate robot movement, avoid obstacles and report on
 warehouse conditions. This experiment aimed to determine if Automatic Induction Robotics
 were safer, smarter, and more efficient than standard, battery-powered systems. This was
