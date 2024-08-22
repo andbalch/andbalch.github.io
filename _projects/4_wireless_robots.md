@@ -1,7 +1,26 @@
 ---
 title: "Wirelessly-Powered Autonomous Warehouse Robots"
-excerpt: "Short description of portfolio item number 1<br/><img src='/images/500x300.png'>"
+excerpt: "For my junior research project at the Governor's School, I designed and built a platform for warehouse robotics (like those used by Amazon) that were powered through wireless induction. Everything I did in this project, from programming and cloud infrastructure to computer-aided design and manufacture, was entirely self-taught. It placed first at the Tidewater Science and Engineering Fair and was accepted to the International Science Fair, but this was canceled due to COVID. Click the link for more details, or check out my <a href='https://www.andrewbalch.com/paper/2020-02-08-junior-research'>writeup</a>!<br/><img src='/images/projects/bot_testing.png' width='50%' height='50%'>"
 collection: projects
 ---
 
-This is an item in your portfolio. It can be have images or nice text. If you name the file .md, it will be parsed as markdown. If you name the file .html, it will be parsed as HTML.
+For my junior research project at the Governor's School, I designed and built a platform for warehouse robotics (like those used by Amazon) that were powered through wireless induction. Everything I did in this project, from programming and cloud infrastructure to computer-aided design and manufacture, was entirely self-taught. It placed first at the Tidewater Science and Engineering Fair and was accepted to the International Science Fair, but this was canceled due to COVID.
+
+Project backboard:  
+<embed src="/files/robot_backboard.pdf" width="500" height="375" type="application/pdf">
+
+The robot was capable of lifting and moving a few hundred pounds, which required a lot of well-designed parts to hold it all together.  
+<img src='/images/projects/robot_front.png'>
+
+This is the technical drawing for one of the many parts I CAD'ed: a bracket for the worm drive motors.
+
+A matrix of induction tiles powered the robot as it moved across the mock warehouse floor.  
+<img src='/images/projects/induction_tiles.png'>
+
+Of course, it couldn't drive right on the wiring, so I had to build a false floor to protect the induction coils.  
+<img src='/images/projects/floor_tile.png'>
+
+A relay array determined when each tile would receive power. These were controlled by an Arduino microcontroller connected to AWS IoT. It communicated with Java code running in the cloud that planned out pick and place locations for each of up to 3 robots, estimated the exact time each tile would be occupied by a bot, and dynamically ran a pathfinding algorithm to avoid fallen products and other robots.  
+<img src='/images/projects/relay_array.png'>
+
+Check out my written report on this project [here](https://www.andrewbalch.com/paper/2020-02-08-junior-research)!
