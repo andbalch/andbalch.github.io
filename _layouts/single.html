@@ -47,6 +47,10 @@ layout: default
       <section class="page__content" itemprop="text">
         {{ content }}
 
+        {% if page.paperurl %}
+          <embed src="{{ page.paperurl }}" width="500" height="375" type="application/pdf">
+        {% endif %}
+
         {% if page.citation and page.paperurl and page.slidesurl and page.repourl %}
           <p "font-size: smaller">Recommended citation: {{ page.citation }}<br /><a href="{{ page.paperurl }}">Download Paper</a> | <a href="{{ page.slidesurl }}">Download Slides</a> | <a href="{{ page.repourl }}">Source Code</a></p>
         {% elsif page.citation and page.paperurl and page.repourl %}
