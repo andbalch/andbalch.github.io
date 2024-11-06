@@ -3,8 +3,6 @@ title: "Today I feel like..."
 excerpt: ""
 collection: poetry
 ---
-# Today I feel like...
-
 Today I feel like…  
 &nbsp;&nbsp;&nbsp;&nbsp;A soaring swallow  
 &nbsp;&nbsp;&nbsp;&nbsp;Smacking sheet glass
