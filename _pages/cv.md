@@ -13,6 +13,6 @@ redirect_from:
 
 <embed src="/files/CV.pdf" width="500" height="500" type="application/pdf">
 
-## Transcript (Fall 2025 - Unofficial)
+## Transcript (Fall 2024 - Unofficial)
 
-<embed src="/files/F25_transcript.pdf" width="500" height="500" type="application/pdf">
+<embed src="/files/F24_transcript.pdf" width="500" height="500" type="application/pdf">
