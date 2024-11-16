@@ -3,7 +3,7 @@ title: "Exploring Smartphone-based Spectrophotometry for Nutrient Identification
 collection: papers
 category: preprints
 permalink: /paper/2024-10-16-spectrophotometer-device
-excerpt: 'During my time as a UVA Dean’s Research Fellow, I utilized my physical prototyping skills to refine an existing design for a smartphone-based spectrophotometer. I built a custom image analysis pipeline to extract quantitative absorbance spectra data using just a smartphone camera and conducted several experiments to fine-tune the performance of the device on micronutrient samples. This project was featured in <a href="https://news.virginia.edu/content/peek-summer-research-engineering-deans-fellows">a news article by UVA Today</a>! Submitted to the 2025 IEEE International Conference on Pervasive Computing and Communications.'
+excerpt: 'During my time as a UVA Dean’s Research Fellow, I utilized my physical prototyping skills to refine an existing design for a smartphone-based spectrophotometer. I built a custom image analysis pipeline to extract quantitative absorbance spectra data using just a smartphone camera and conducted several experiments to fine-tune the performance of the device on micronutrient samples. This project was featured in <a href="https://news.virginia.edu/content/peek-summer-research-engineering-deans-fellows">a news article by UVA Today</a>! Submitted to the 2025 IEEE International Conference on Pervasive Computing and Communications.<br/><img src="/images/papers/spectro_flowchart.png" width="50%" height="50%">'
 date: 2024-10-16
 venue: 'arXiv'
 paperurl: 'https://arxiv.org/pdf/2410.11027'
@@ -11,6 +11,9 @@ repourl: 'https://github.com/andbalch/Spectrophotometry-Project-Fine-Tuning'
 citation: 'Balch, Andrew, Cardei, Maria A., Doryab, Afsaneh. (2024). &quot;Exploring Smartphone-based Spectrophotometry for Nutrient Identification and Quantification.&quot <i>arXiv preprint arXiv:2410.11027.</i>'
 ---
 During my time as a UVA Dean's Research Fellow, I utilized my physical prototyping skills to refine an existing design for a smartphone-based spectrophotometer. I built a custom image analysis pipeline to extract quantitative absorbance spectra data using just a smartphone's camera and conducted several experiments to fine-tune the performance of the device on micronutrient samples. This project was featured in [a news article by UVA Today](https://news.virginia.edu/content/peek-summer-research-engineering-deans-fellows)! Submitted to the 2025 IEEE International Conference on Pervasive Computing and Communications.
+
+<img src='/images/papers/spectro_flowchart.png' width='75%' height='75%'><br/>
+*The processing and analysis pipeline for generating absorbance spectra of a sample from a smartphone captured image.*
 
 ## Abstract
 
