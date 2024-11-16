@@ -82,10 +82,10 @@ paper_category:
     title: 'Conference Papers'
   preprints:
     title: 'Preprints'
-  abstracts: 
-    title: 'Conference Abstracts'
   coursework:
     title: 'Coursework'
+  abstracts: 
+    title: 'Conference Abstracts'
 
 # Site Settings
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
