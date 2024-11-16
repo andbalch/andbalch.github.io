@@ -16,7 +16,7 @@ The first prototype of the device was actually built in a shoebox! This helped b
 
 After preliminary testing, I replicated a more refined design from existing work and CAD'ed a cuvette holder for it, allowing for very repeatable tests.
 
-<img src='/images/projects/smartphone.JPG' width='50%' height='50%'>
+<img src='/images/projects/Device_and_holder.png' width='75%' height='75%'>
 
 Here's what the smartphone camera saw!
 
