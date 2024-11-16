@@ -3,7 +3,7 @@ title: "Exploring Smartphone-based Spectrophotometry for Nutrient Identification
 collection: papers
 category: preprints
 permalink: /paper/2024-10-16-spectrophotometer-device
-excerpt: 'During my time as a UVA Deans Research Fellow, I utilized my physical prototyping skills to refine an existing design for a smartphone-based spectrophotometer. I built a custom image analysis pipeline to extract quantitative absorbance spectra data using just a smartphone camera and conducted several experiments to fine-tune the performance of the device on micronutrient samples. This project was featured in <a href="https://news.virginia.edu/content/peek-summer-research-engineering-deans-fellows">a news article by UVA Today</a>! Submitted to the 2025 IEEE International Conference on Pervasive Computing and Communications.'
+excerpt: 'During my time as a UVA Dean’s Research Fellow, I utilized my physical prototyping skills to refine an existing design for a smartphone-based spectrophotometer. I built a custom image analysis pipeline to extract quantitative absorbance spectra data using just a smartphone camera and conducted several experiments to fine-tune the performance of the device on micronutrient samples. This project was featured in <a href="https://news.virginia.edu/content/peek-summer-research-engineering-deans-fellows">a news article by UVA Today</a>! Submitted to the 2025 IEEE International Conference on Pervasive Computing and Communications.'
 date: 2024-10-16
 venue: 'arXiv'
 paperurl: 'https://arxiv.org/pdf/2410.11027'
