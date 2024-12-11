@@ -3,7 +3,7 @@ title: "Towards an Accessible, Noninvasive Micronutrient Status Assessment Metho
 collection: papers
 category: preprints
 permalink: /paper/2024-08-21-accessible-micronutrient-assessment
-excerpt: 'A culmination of 2 years of interdisciplinary research at the <a href="https://hai-lab-uva.github.io">UVA Human-AI Technology Lab</a> that I have led since my first year. This survey paper examines how the global issue of micronutrient malnutrition has been addressed, exhaustively bridging the clinical and technological aspects of micronutrient status assessment to provide insights and recommendations for future work to effectively address this problem. Submitted to ACM Transactions on Computing for Healthcare.'
+excerpt: 'A culmination of 2 years of interdisciplinary research at the <a href="https://hai-lab-uva.github.io">UVA Human-AI Technology Lab</a> that I have led since my first year. This survey paper examines how the global issue of micronutrient malnutrition has been addressed, exhaustively bridging the clinical and technological aspects of micronutrient status assessment to provide insights and recommendations for future work to effectively address this problem. Under review at ACM Transactions on Computing for Healthcare.'
 date: 2024-08-21
 venue: 'arXiv'
 paperurl: 'https://arxiv.org/pdf/2408.11877'
