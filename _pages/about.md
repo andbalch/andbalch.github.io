@@ -6,7 +6,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
-**I am excited to share that I was recently selected as a finalist for the [Computing Research Association's 2024-25 Outstanding Undergraduate Researcher Award](https://cra.org/crae/awards/cra-outstanding-undergraduate-researchers/)! Last year, only 16 students nationwide were selected as finalists.**
+**I am excited to share that I was recently selected as a finalist for the [Computing Research Association's 2024-25 Outstanding Undergraduate Researcher Award](https://cra.org/crae/awards/cra-outstanding-undergraduate-researchers/)! Just 24 students nationwide received this level of recognition for their contributions to computing research.**
 
 Hi! I'm a fourth-year Computer Science student at the University of Virginia School of Engineering and Applied Science. I have a special interest in applying computer science, machine learning, and data science to inform and aid in social issues, including critical analyses of how information technology impacts society and perpetuates injustice. This has been motivated by my coursework in sociology, which inspired me to write [a paper on the power structures that enable algorithmic injustice](https://www.andrewbalch.com/paper/2024-05-20-why-algorithms-remain-unjust).
 
