@@ -15,4 +15,4 @@ redirect_from:
 
 ## Transcript (Spring 2025 - Unofficial)
 
-<embed src="/files/S2f_transcript.pdf" width="500" height="500" type="application/pdf">
+<embed src="/files/S25_transcript.pdf" width="500" height="500" type="application/pdf">
