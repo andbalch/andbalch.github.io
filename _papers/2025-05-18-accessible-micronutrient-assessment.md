@@ -6,7 +6,7 @@ permalink: /paper/2024-05-18-accessible-micronutrient-assessment
 excerpt: 'A culmination of 3 years of interdisciplinary research at the <a href="https://hai-lab-uva.github.io">UVA Human-AI Technology Lab</a> that I have led since my first year. This survey paper examines how the global issue of micronutrient malnutrition has been addressed, exhaustively bridging the clinical and technological aspects of micronutrient status assessment to provide insights and recommendations for future work to effectively address this problem. Under review at ACM Transactions on Computing for Healthcare.'
 date: 2025-05-18
 venue: 'ACM HEALTH'
-paperurl: 'https://doi.org/10.1145/3743690'
+paperurl: 'https://www.andrewbalch.com/files/Nutrition_review.pdf'
 citation: 'Balch, Andrew, Cardei, Maria A., Kranz, Sibylle, Doryab, Afsaneh. (2025). &quot;Towards an Accessible, Noninvasive Micronutrient Status Assessment Method: A Comprehensive Review of Existing Techniques.&quot ACM Trans. Comput. Healthcare Just Accepted (June 2025). https://doi.org/10.1145/3743690'
 ---
 A culmination of 3 years of interdisciplinary research at the [UVA Human-AI Technology Lab](https://hai-lab-uva.github.io) that I have led since my first year as an undergraduate. This survey paper examines how the global issue of micronutrient malnutrition has been addressed, exhaustively bridging the clinical and technological aspects of micronutrient status assessment to provide insights and recommendations for future work to effectively address this problem. Published at ACM Transactions on Computing for Healthcare.
