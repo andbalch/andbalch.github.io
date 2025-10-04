@@ -1,5 +1,6 @@
 ---
 title: "Dark Sky"
+excerpt: ""
 collection: poetry
 ---
 Your dark sky hides  

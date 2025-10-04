@@ -1,5 +1,6 @@
 ---
 title: "In Response to an Unsanctioned Outburst of Free Speech..."
+excerpt: ""
 collection: poetry
 ---
 In response to an unsanctioned outburst of free speech  
