@@ -187,6 +187,17 @@ exclude:
   - vendor
   # Mods
   - _pages/talks.html
+  - _pages/archive-layout-with-content.md
+  - _pages/category-archive.html
+  - _pages/colleciton-archive.html
+  - _pages/markdown.md
+  - _pages/non-menu-page.md
+  - _pages/page-archive.html
+  - _pages/tag-archive.html
+  - _pages/talkmap.html
+  - _pages/teaching.html
+  - _pages/terms.md
+  - _pages/year-archive.html
 keep_files:
   - .git
   - .svn
