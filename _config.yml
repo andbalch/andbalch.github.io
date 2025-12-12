@@ -185,6 +185,8 @@ exclude:
   - README
   - tmp
   - vendor
+  # Mods
+  - _pages/talks.html
 keep_files:
   - .git
   - .svn
