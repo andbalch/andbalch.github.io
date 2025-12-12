@@ -198,6 +198,7 @@ exclude:
   - _pages/teaching.html
   - _pages/terms.md
   - _pages/year-archive.html
+  - markdown_generator
 keep_files:
   - .git
   - .svn
